@@ -5,7 +5,7 @@ import { basename, join, resolve } from 'node:path';
 const root = resolve(process.argv[2] || '.');
 const out = resolve(root, 'dist');
 const input = resolve(root, 'content/approved');
-const allowedTestIds = new Set(['bbn-app-integration-test-20261021']);
+const allowedTestIds = new Set(['bbn-app-integration-test-20261021', 'bbn-app-integration-test-20261021-02']);
 const fields = ['id', 'title', 'category', 'reporter', 'publishedAt', 'summary', 'path'];
 const detailFields = [...fields, 'body', 'sources', 'verification', 'media'];
 const requireValue = (ok, reason) => { if (!ok) throw new Error(reason); };

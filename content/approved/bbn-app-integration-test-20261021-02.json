@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "publication": {
+    "state": "approved",
+    "kind": "test",
+    "approvedBy": "user-request-second-test-in-current-chat",
+    "approvedAt": "2026-10-21T14:50:37Z"
+  },
+  "article": {
+    "id": "bbn-app-integration-test-20261021-02",
+    "title": "[연동 테스트] 2차 — 새 기사 자동 추가 확인",
+    "category": "news",
+    "reporter": "sentinel",
+    "publishedAt": "2026-10-21T14:50:37Z",
+    "summary": "두 번째 테스트 기사입니다. 첫 번째 기사를 유지하면서 새 기사가 앱 목록에 자동으로 추가되는지 확인합니다. 실제 뉴스가 아닙니다.",
+    "path": "articles/bbn-app-integration-test-20261021-02.json",
+    "body": [
+      {
+        "type": "heading",
+        "text": "두 번째 앱 연동 테스트"
+      },
+      {
+        "type": "paragraph",
+        "text": "이 기사는 사용자의 재시험 요청으로 만든 시스템 시험 자료입니다. 실제 UFO·UAP 사건에 대한 보도가 아닙니다."
+      },
+      {
+        "type": "paragraph",
+        "text": "확인 문구: BLUEBOOK-APP-TEST-02. 앱에 첫 번째 테스트 기사와 이 두 번째 기사가 함께 표시되면 새 기사 추가와 기존 기사 유지가 확인됩니다."
+      }
+    ],
+    "sources": [],
+    "verification": {
+      "status": "pending",
+      "note": "시스템 연동 재시험용 자료이며 실제 뉴스나 사실 검증 완료 기사가 아닙니다."
+    },
+    "media": []
+  }
+}
