@@ -1,0 +1,14 @@
+{
+  "id": "BBN-AUTO-PUBLISH-TEST-20261021",
+  "title": "[시험용] BLUE BOOK NETWORK 기사 자동 발행 검증",
+  "reporter": "SYSTEM TEST",
+  "category": "시스템 테스트",
+  "summary": "자동 발행 경로 확인을 위한 시험 데이터입니다. 실제 보도가 아닙니다.",
+  "body": [
+    "이 문서는 ChatGPT 예약 작업에서 GitHub 및 Cloudflare Pages까지의 기사 전달을 시험하기 위해 작성되었습니다.",
+    "실제 UFO·UAP 사건이나 정부 발표에 관한 기사가 아닙니다."
+  ],
+  "sources": [],
+  "is_test": true,
+  "publish": true
+}
