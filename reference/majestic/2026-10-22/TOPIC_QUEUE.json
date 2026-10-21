@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "order": "Reference order only; not a predetermined publication approval or daily quota",
+  "topics": [
+    {
+      "topicId": "tremonton-1952",
+      "title": "트레몬턴 필름: 조사기관의 해석은 어떻게 달라졌나",
+      "path": "reference/majestic/2026-10-22/topics/tremonton-1952.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 5
+    },
+    {
+      "topicId": "ruppelt-1952",
+      "title": "러펠트의 1952년 발표: 공군은 어떤 자료를 모으려 했나",
+      "path": "reference/majestic/2026-10-22/topics/ruppelt-1952.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 2
+    },
+    {
+      "topicId": "aawsap-program-2008",
+      "title": "AAWSAP 사업의 목적과 계약은 무엇을 말해주는가",
+      "path": "reference/majestic/2026-10-22/topics/aawsap-program-2008.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 2
+    },
+    {
+      "topicId": "sandia-1948-1950",
+      "title": "샌디아 기지 기록: 목격 보고와 당시 조사",
+      "path": "reference/majestic/2026-10-22/topics/sandia-1948-1950.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 1
+    },
+    {
+      "topicId": "western-us-2023",
+      "title": "미 서부 사건: 증언·조사 업데이트·재현 그림 비교",
+      "path": "reference/majestic/2026-10-22/topics/western-us-2023.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 7
+    },
+    {
+      "topicId": "metallic-glasses-study",
+      "title": "금속 유리 연구: 항공우주 소재 보고서를 읽는 법",
+      "path": "reference/majestic/2026-10-22/topics/metallic-glasses-study.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 1
+    },
+    {
+      "topicId": "spintronics-study",
+      "title": "스핀트로닉스 보고서: 기술 연구와 UAP 증거의 차이",
+      "path": "reference/majestic/2026-10-22/topics/spintronics-study.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 1
+    },
+    {
+      "topicId": "colorado-2023",
+      "title": "콜로라도 신고 영상: 원본 장면과 확인 한계",
+      "path": "reference/majestic/2026-10-22/topics/colorado-2023.json",
+      "status": "reference-ready-not-article-approved",
+      "sourceCount": 2
+    }
+  ]
+}

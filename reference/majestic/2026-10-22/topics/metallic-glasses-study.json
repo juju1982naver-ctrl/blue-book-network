@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "topicId": "metallic-glasses-study",
+  "title": "금속 유리 연구: 항공우주 소재 보고서를 읽는 법",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "연구 주제와 적용 가능성을 설명하고 무엇이 이론·실험·전망인지 구분한다.",
+  "cautions": [
+    "현미경 사진의 출처·재사용 권리와 원래 논문을 확인한다. 연구자료 수록을 회수 외계 물질의 증거로 해석하지 않는다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-004",
+      "officialId": "DOW-UAP-D117",
+      "title": "DOW-UAP-D117, AAWSAP DIRD, METALLIC GLASSES FOR AEROSPACE APPLICATIONS, DECEMBER 2009",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "12/14/09",
+      "incidentLocation": "LAS VEGAS, NEVADA",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1106",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D117-AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-2009",
+      "officialDescription": "This document is a Defense Intelligence Reference Document (DIRD), a technical reference format used by the Defense Intelligence Agency (DIA) to capture baseline knowledge on a specific topic for later analytic use. DIRDs are best understood as reference and synthesis products rather than as original research. It is one of 38 DIRDs produced under the Advanced Aerospace Weapon System Applications Program (AAWSAP) between 2009 and 2011. Because AAWSAP’s scope permitted a broad range of supporting topics, not every DIRD in the series directly concerns aerospace systems or future threat assessment. The following summary reflects the DIRD’s scope and framing at the time of writing and should not be read as implying current validation of the concepts discussed.\n\nThis DIRD surveys metallic glasses as a potentially important class of aerospace materials and describes their amorphous structure as offering very high strength and unusual manufacturing advantages, but also significant drawbacks, especially poor ductility and fatigue resistance. The document concludes that the most promising aerospace applications are likely to come from metallic-glass-matrix composites rather than single-phase glasses, because these composites can retain high strength while greatly improving fracture toughness and fatigue performance, potentially enough to substitute for high-strength steels in some space-limited structural uses. At the same time, the report judges that broader aerospace use will depend on substantial progress over the next 20–50 years in alloy design, processing, and especially the development of lightweight systems, including aluminum-based options.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [
+        {
+          "alt": "Microscope image showing shearing in a bent metallic glass sample at the nanometer scale.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-002"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-003"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-147"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-148"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-149"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-150"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-151"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-152"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-153"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-154"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-155"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-156"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-157"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-158"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-159"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-160"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-161"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-162"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-005"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-163"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-164"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-165"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-166"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-167"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-168"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-169"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-170"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-171"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-172"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-173"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-174"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-175"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-176"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-177"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-178"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-179"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-180"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-181"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-182"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-183"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-184"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-185"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-186"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "topicId": "sandia-1948-1950",
+  "title": "샌디아 기지 기록: 목격 보고와 당시 조사",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "1948~1950년 보고 묶음의 기록 성격과 조사 배경을 설명한다.",
+  "cautions": [
+    "116페이지·209건 등 숫자는 공식 소개의 서술 범위이며 원문에서 분모와 포함 기준을 확인해 인용한다. 보고 수를 독립 입증 수로 바꾸지 않는다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-083",
+      "officialId": "DOW-UAP-D017",
+      "title": "DOW-UAP-D017, UAP REPORTED AT SANDIA BASE, 1948-1950",
+      "release": 2,
+      "releaseLabel": "5/22/26 - RELEASE 02",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "1948-1950",
+      "incidentLocation": "NEW MEXICO",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1053",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D017-UAP-Reported-at-Sandia-Base-1948-1950",
+      "officialDescription": "This file contains 116 pages of documentation from the Armed Forces Special Weapons Program (AFSWP) – the direct, post-World War II successor to the Manhattan Project – and from the U.S. Air Force – relating to a series of sightings and investigations in Sandia, New Mexico, from 1948-1950. This file contains 209 sightings of “green orbs,” “discs,” and “fireballs” reported near the military base. Witnesses reported unidentified anomalous phenomena (UAP) maneuvering, flying out of sight, disappearing, or exploding. The documents also include the results of contemporary investigations into residual copper powder found in some areas where sightings were reported. A few of these investigations became the basis for Project Grudge, which collected reports of unidentified flying objects from various other military installations – also included in this collection.",
+      "previewImages": [
+        {
+          "alt": "A collection of UAP reports and documents from a national security site in New Mexico 1948-1950",
+          "src": "https://www.war.gov/medialink/ufo/052226/release_02/thumbnails/DOW-UAP-D017_General_Correspondence_Of_Sandia.jpg"
+        }
+      ],
+      "related": [],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "topicId": "colorado-2023",
+  "title": "콜로라도 신고 영상: 원본 장면과 확인 한계",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "공개된 신고 영상의 날짜·출처·관측 한계를 정리하는 보조 후보다.",
+  "cautions": [
+    "두 영상이 같은 사건인지 아직 확정하지 않았다. 나이트워치 기사와 중복 가능성이 크므로 미발행·동일 사건 여부 확인 후에만 선택한다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-009",
+      "officialId": "LLE-UAP-PR001",
+      "title": "LLE-UAP-PR001, UNRESOLVED UAP REPORT, COLORADO, 2023",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "LOCAL LAW ENFORCEMENT",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "COLORADO",
+      "fileType": ".VID",
+      "virin": null,
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#LLE-UAP-PR001-Unresolved-UAP-Report-Colorado-2023",
+      "officialDescription": "A local law enforcement officer submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office consisting of 1 minute and 19 seconds of video footage from a commercially available cellular device’s rear-facing camera in October 2023. The reporting officer described the phenomenon as “silent” and as featuring “red, blue, and green flashing lights.”\n\nVideo Description: AARO digitally altered this footage by blurring the bottom half to obscure information whose release could be reasonably expected to affect the privacy or other protected interest of a U.S. person or commercial entity.\n\n00:00-00:47: The camera pans to track an apparent light source, keeping it generally centered within the frame.\n\n00:48-01:19: The camera increases and decreases its level of magnification several times and continues to pan to track the apparent light source.\n\nAARO Comment: Cellular devices of the type used to capture this footage employ autofocus and other automated image-processing functions that may distort the apparent morphological and kinematic characteristics of distant subjects, particularly at high magnification.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-397"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-010",
+      "officialId": "LLE-UAP-PR002",
+      "title": "LLE-UAP-PR002, UNRESOLVED UAP REPORT, COLORADO, OCTOBER 2023",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": null,
+      "incidentDateLabel": null,
+      "incidentLocation": null,
+      "fileType": ".VID",
+      "virin": null,
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#LLE-UAP-PR002-Unresolved-UAP-Report-Colorado-October-2023",
+      "officialDescription": "A local law enforcement officer submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office consisting of 15 minutes of video footage from a commercially available cellular device’s rear-facing camera in October 2023. The reporting officer described the phenomenon as “silent” and as featuring “red, blue, and green flashing lights.”\n\nVideo Description: AARO digitally altered this footage by blurring the bottom half to obscure information whose release could be reasonably expected to affect the privacy or other protected interest of a U.S. person or commercial entity.\n\n00:00-15:00: The camera focuses on an apparent light source for the duration of the video, keeping it generally centered within the frame.\n\nAARO Comment: Cellular devices of the type used to capture this footage employ autofocus and other automated image-processing functions that may distort the apparent morphological and kinematic characteristics of distant subjects, particularly at high magnification.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-398"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

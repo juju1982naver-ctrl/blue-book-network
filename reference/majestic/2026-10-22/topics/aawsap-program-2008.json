@@ -1,0 +1,600 @@
+{
+  "schemaVersion": 1,
+  "topicId": "aawsap-program-2008",
+  "title": "AAWSAP 사업의 목적과 계약은 무엇을 말해주는가",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "과업 목표와 계약 기록을 대조해 사업이 연구하려 한 범위를 설명한다.",
+  "cautions": [
+    "연구 과업·계약 체결과 해당 기술의 실현·운용·외계 기원 입증을 구분한다. 다른 AAWSAP 연구 문서는 자동으로 같은 사건 기사로 묶지 않는다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-002",
+      "officialId": "DOW-UAP-D110",
+      "title": "DOW-UAP-D110, AAWSAP STATEMENT OF OBJECTIVES, JULY 2008",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "7/18/08",
+      "incidentLocation": "WASHINGTON, D.C.",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1099",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D110-AAWSAP-Statement-of-Objectives-July-2008",
+      "officialDescription": "This document is an administrative or programmatic record related to the Advanced Aerospace Weapon System Applications Program (AAWSAP), a Defense Intelligence Agency (DIA)-administered program active from 2008 to 2012. AAWSAP’s official scope of work identified 12 technical research areas relating to potential aerospace threats over a time horizon of more than 40 years. As an administrative record, the file documents how AAWSAP was scoped, organized, tasked, funded, or described at a particular point in time.\n\nThis July 2008 Statement of Objectives defines AAWSAP as a contractor-supported research effort intended to assess far-term foreign aerospace threats by understanding the physics and engineering of possible breakthrough technologies out to the year 2050 rather than extrapolating from then-current aerospace trends. It identifies 12 technical study areas, including lift, propulsion, control, power generation, spatial or temporal translation, materials, configuration and structure, signature reduction, human interface, human effects, armament, and related supporting topics. The document also sets out the program’s expected work structure, requiring monthly status reports, technical-area program management plans within 60 days, comprehensive research reports and briefings by the tenth month, and a final integrated threat assessment.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [
+        {
+          "alt": "Document listing goals and study areas for an advanced aerospace program.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D110_AAWSAP-Statement-of-Objectives-July-18-2008.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-003"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-147"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-148"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-149"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-150"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-151"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-004"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-152"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-153"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-154"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-155"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-156"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-157"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-158"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-159"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-160"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-161"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-162"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-005"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-163"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-164"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-165"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-166"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-167"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-168"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-169"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-170"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-171"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-172"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-173"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-174"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-175"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-176"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-177"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-178"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-179"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-180"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-181"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-182"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-183"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-184"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-185"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-186"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-003",
+      "officialId": "DOW-UAP-D111",
+      "title": "DOW-UAP-D111, AAWSAP SOLICITATION AND ORIGINAL ORDER, SEPTEMBER 2008",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "9/22/08",
+      "incidentLocation": "WASHINGTON, D.C.",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1100",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D111-AAWSAP-Solicitation-and-Original-Order-September-2008",
+      "officialDescription": "This document is an administrative or programmatic record related to the Advanced Aerospace Weapon System Applications Program (AAWSAP), a Defense Intelligence Agency (DIA)-administered program active from 2008 to 2012. AAWSAP’s official scope of work identified 12 technical research areas relating to potential aerospace threats over a time horizon of more than 40 years. As an administrative record, the file documents how AAWSAP was scoped, organized, tasked, funded, or described at a particular point in time.\n\nThis September 2008 solicitation/contract/order document serves as the original contract award instrument for AAWSAP work performed by Bigelow Aerospace Advanced Space Studies, Inc. (BAASS), incorporating the contractor’s proposal by reference and translating the earlier Statement of Objectives (DOW-UAP-D110) into priced contract line items. The file breaks the base year into specific deliverable categories, including monthly status reports, program management plans for the 12 technical areas, research reports, a comprehensive integrated threat assessment, travel, and other direct costs, and corresponding option-year line items for follow-on performance.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [
+        {
+          "alt": "Government contract form for goods or services.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D111_AAWSAP-Solicitation-and-Original-Order-September-22-2008.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-002"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-147"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-148"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-149"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-150"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-151"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-004"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-152"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-153"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-154"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-155"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-156"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-157"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-158"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-159"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-160"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-161"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-162"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-005"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-163"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-164"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-165"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-166"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-167"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-168"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-169"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-170"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-171"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-172"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-173"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-174"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-175"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-176"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-177"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-178"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-179"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-180"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-181"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-182"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-183"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-184"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-185"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-186"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "topicId": "tremonton-1952",
+  "title": "트레몬턴 필름: 조사기관의 해석은 어떻게 달라졌나",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "목격자의 신뢰도 평가와 영상만으로 측정할 수 있는 것을 구분한다. 새·풍선·기타 가설과 후대 판단을 비교한다.",
+  "cautions": [
+    "16mm 원본과 35mm 복제 확대본을 혼동하지 않는다. 원본 촬영 장면과 문서 썸네일을 구분한다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-001",
+      "officialId": "DOW-UAP-D102",
+      "title": "DOW-UAP-D102, PROJECT BLUE BOOK FILE ON TREMONTON FILM, UTAH, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "7/2/52",
+      "incidentLocation": "TREMONTON, UTAH",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1091",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D102-Project-Blue-Book-File-on-Tremonton-Film-Utah-1952",
+      "officialDescription": "This document records the Project Blue Book investigation and subsequent assessments of an incident near Tremonton, Utah, on July 2, 1952. Project Blue Book was a 1952-1969 U.S. Air Force program to investigate the nature and origin of unidentified flying objects (UFOs). The file describes the Air Force’s assessment of the principal witness, Delbert C. Newhouse, a U.S. Navy Warrant Officer specializing in photography, as honest and reliable, and as an expert with more than 1,000 hours of aerial-photography experience. Newhouse reported observing 12 to 14 reflective objects and recorded the event on color motion-picture film using a handheld Bell & Howell Auto Master camera.\n\nThe file reflects an evolving Air Force assessment of the imagery over several years. Early documentation considered several possible explanations, including sunlight reflecting from birds or balloons, and a mirage effect, and did not identify the objects conclusively. Later assessments became more confident that the objects were seabirds reflecting sunlight, citing identifiable seabirds and similar films showing seabirds as bright points of light under comparable conditions. However, the film’s limited detail and lack of fixed reference points prevented reliable determination of the objects’ distance, size, altitude, or linear speed from the film alone.\n\nAARO Comment: The file contains conflicting references to the film format. Several documents describe a 35mm film, while contemporaneous submission documentation identifies the original as a 50-foot roll of processed 16mm Kodachrome color motion-picture film recorded with a handheld Bell & Howell Auto Master camera. Newhouse reported exposing approximately 30 feet of the roll during the incident and using the remaining film later that day to record unrelated mountain scenery in Idaho. Other records show that 35mm positive and negative duplicate blowups were produced from the original 16mm material. The file also indicates that the original film was duplicated for preservation, citing its deteriorating condition. The footage retained by the National Archives and Records Administration and presented in this collection as DOW-UAP-PR159 is a digitization of a 16mm print.",
+      "previewImages": [
+        {
+          "alt": "A typed document with handwritten notes and dates about the Tremonton film.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-007"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-136"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-140"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-141"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-142"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-007",
+      "officialId": "DOW-UAP-PR159",
+      "title": "DOW-UAP-PR159, HISTORICAL FILM OF REPORTED UFOS, UTAH, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "7/2/52",
+      "incidentLocation": "TREMONTON, UTAH",
+      "fileType": ".VID",
+      "virin": null,
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-PR159-Historical-Film-of-Reported-UFOs-Utah-1952",
+      "officialDescription": "This archival footage is a digitization of a 16mm print of Kodachrome color motion-picture film shot on a handheld Bell & Howell Auto Master camera near Tremonton, Utah, on July 2, 1952. U.S. Navy Chief Warrant Officer Delbert C. Newhouse reported observing and filming a group of bright airborne objects and shortly thereafter submitted the footage to the U.S. Air Force. The film later became one of the visual cases reviewed by Project Blue Book, the 1952–1969 U.S. Air Force program that investigated the nature and origin of unidentified flying objects (UFOs). The film’s limited detail and lack of fixed reference points prevented a conclusive resolution. From the 55-second mark onward, the film transitions to unrelated footage appearing to show a demonstration of sewing equipment. The presence of unrelated sewing-equipment footage suggests that the surviving footage may be a composite or reused print, though the available record does not establish how or when the materials came to be combined. As documented in records submitted with the film, contained in this collection under the title DOW-UAP-D102, the footage originally was paired with mountain scenery from Idaho, which is not preserved in this digitization.",
+      "previewImages": [],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-136"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-001"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-140"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-141"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-142"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-136",
+      "officialId": "DOW-UAP-D098",
+      "title": "DOW-UAP-D098, FILM ANALYSIS OF UNIDENTIFIED OBJECTS, 1953",
+      "release": 5,
+      "releaseLabel": "8/7/26 - RELEASE 05",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "1950, 1952",
+      "incidentLocation": "MONTANA, UTAH",
+      "fileType": ".PDF",
+      "virin": "260807-D-D0360-1087",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D098-Film-Analysis-of-Unidentified-Objects-1953",
+      "officialDescription": "This file contains a memorandum relating to the U.S. Naval Photographic Interpretation Center’s assessment of two films allegedly depicting unidentified airborne objects, captured in Montana and Utah in 1950 and 1952, respectively. The file documents the Center’s analytic process, assumptions that constrained its confidence level, tentative conclusions, and recommendations for future research. The Center assessed, generally, that the objects depicted in the film demonstrated characteristics that were inconsistent with those of natural phenomena or commonly known aerospace technologies. The memorandum documents the Center’s recommendation for a more well-resourced investigation to corroborate its presumptive findings, citing a lack of funding and personnel. The accompanying charts compare the film’s luminosity with the apparent angular size of the phenomena, using contemporary mathematical modeling and photogrammetric analysis techniques.",
+      "previewImages": [
+        {
+          "alt": "A request for the U.S. Naval Photographic Interpretation Center to assess a film allegedly depicting unidentified airborne objects.",
+          "src": "https://www.war.gov/medialink/ufo/release_05/Aug_07/thumbnails/DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-007"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-140"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-141"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-142"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-140",
+      "officialId": "DOW-UAP-D103",
+      "title": "DOW-UAP-D103, PROJECT BLUE BOOK PHOTO FILE RELATING TO TREMONTON FILM, UTAH, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "7/2/52",
+      "incidentLocation": "TREMONTON, UTAH",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1092",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D103-Project-Blue-Book-Photo-File-Relating-to-Tremonton-Film-Utah-1952",
+      "officialDescription": "During its investigation of a July 1952 film of an incident reported near Tremonton, Utah, Project Blue Book examined whether the objects recorded on film might have been “pillow balloons.” Project Blue Book was a U.S. Air Force program active from 1952 to 1969 that investigated the nature and origin of unidentified flying objects (UFOs). In December 1952, investigators contacted General Mills, Inc., the only known manufacturer of pillow balloons at the time, to determine whether a balloon release could account for the incident.\n\nThe file includes example imagery of pillow balloons supplied by General Mills Research Laboratories. In late December 1952, Project Blue Book personnel, balloon specialists, and representatives from General Mills reviewed the Tremonton footage. The group’s consensus was that the objects closely resembled pillow balloons in flight and behaved consistently with that explanation. One General Mills representative was less convinced, noting that the objects appeared somewhat too bright and seemed to maneuver too rapidly.\n\nThe reviewers also questioned previous angular-velocity calculations suggesting that the objects moved at a high rate of speed because those calculations depended on the unverified assumption that the camera operator had held the camera still during filming. Subsequent efforts to identify a pillow-balloon release in the Tremonton area were unsuccessful. The file also considered seabirds as a possible explanation, citing similar films showing seabirds as bright points of light under comparable conditions. Later Air Force assessments favored the seabird attribution.",
+      "previewImages": [
+        {
+          "alt": "Black-and-white photo of two men launching a cluster of pillow balloons.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D103_Project-Blue-Book-Photo-File-Relating-to-Tremonton-Film-Utah-1952.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-007"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-136"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-001"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-141"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-142"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-142",
+      "officialId": "DOW-UAP-D105",
+      "title": "DOW-UAP-D105, U.S. AIR FORCE FLYING DISCS FILE, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "SEPTEMBER - DECEMBER 1952",
+      "incidentLocation": "VARIOUS",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1094",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D105-US-Air-Force-Flying-Discs-File-1952",
+      "officialDescription": "This file is an archival collection of U.S. Air Force Director of Intelligence records relating to reported “flying disc” incidents during the period from September through December 1952. Drawn from multiple governmental and non-governmental sources, it compiles a wide range of material associated with reported sightings and official handling of those observations, rather than presenting a single analytical conclusion on the nature or origin of “flying discs.” The contents include correspondence, memoranda, reporting forms, case summaries, distribution and routing material, and other administrative or intelligence-related documentation tied to flying-disc reporting and review during that period. Pages 26-36 of the file refer to an incident reported near Tremonton, Utah, in July 1952, in which a U.S. Navy Warrant Officer recorded film of unidentified objects that the Air Force later assessed were likely seabirds. Overall, the file is a broad documentary collection reflecting how such reports were recorded, circulated, and evaluated in late 1952.",
+      "previewImages": [
+        {
+          "alt": "Handwritten letter or document from an Air Force flying-disc file.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-007"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-136"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-001"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-140"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-141"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

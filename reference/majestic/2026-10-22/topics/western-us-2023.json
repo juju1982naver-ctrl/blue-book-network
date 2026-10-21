@@ -1,0 +1,889 @@
+{
+  "schemaVersion": 1,
+  "topicId": "western-us-2023",
+  "title": "미 서부 사건: 증언·조사 업데이트·재현 그림 비교",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "AARO 분석 업데이트, 증언, 관련 자료를 함께 읽고 확인 범위와 미해결 이유를 설명한다.",
+  "cautions": [
+    "공식 페이지의 digital rendering/notional map은 목격 당시 실제 사진이 아니다. 재현 그림을 원본 사진으로 표시하지 않는다. 관련 링크에 동명이거나 같은 번호의 다른 자료가 있어 제목·차수까지 확인한다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-115",
+      "officialId": "DOW-UAP-D077",
+      "title": "DOW-UAP-D077, AARO UNRESOLVED CASE ANALYSIS UPDATE: WESTERN UNITED STATES EVENT",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "2023",
+      "incidentLocation": "WESTERN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1059",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D077-AARO-Unresolved-Case-Analysis-Update-Western-United-States-Event",
+      "officialDescription": "This memorandum summarizes the All-domain Anomaly Resolution Office’s (AARO) ongoing analysis of a reported incident near a sensitive national security site in the western United States involving unidentified anomalous phenomena (UAP) over a period of two days in 2023. As of June 2026, the case remains unresolved.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum about orbs.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-116",
+      "officialId": "DOW-UAP-D078",
+      "title": "DOW-UAP-D078, NOTIONAL MAP: WESTERN UNITED STATES EVENT",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1060",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D078-Notional-Map-Western-United-States-Event",
+      "officialDescription": "This image is a notional representation of four incidents reportedly involving unidentified anomalous phenomena in the western United States, as seen from above. This illustration depicts multiple incidents reported by U.S. federal law enforcement special agents over a period of several days in October 2023.",
+      "previewImages": [
+        {
+          "alt": "Map with text explaining four UAP incidents.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DOW-UAP-D078_Notional-Map_Western-United-States-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-117",
+      "officialId": "DOW-UAP-D079",
+      "title": "DOW-UAP-D079, NARRATIVE STATEMENT 1, WESTERN UNITED STATES EVENT, 2023",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1061",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D079-Narrative-Statement-1-Western-United-States-Event-2023",
+      "officialDescription": "This memorandum presents the first-hand narrative from Witness 1 provided to the All-domain Anomaly Resolution Office (AARO). Witness 1 was one of several United States (U.S.) federal law enforcement special agents who reported observing unidentified anomalous phenomena (UAP) over a period of two days in October 2023 in the western United States.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum with a witness narrative.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DoW-UAP-D079_Narrative-1_Western-US-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-362"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-118",
+      "officialId": "DOW-UAP-D080",
+      "title": "DOW-UAP-D080, NARRATIVE STATEMENT 2, WESTERN UNITED STATES EVENT, 2023",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1062",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D080-Narrative-Statement-2-Western-United-States-Event-2023",
+      "officialDescription": "This memorandum presents the first-hand narrative from Witness 2 provided to the All-domain Anomaly Resolution Office (AARO). Witness 2 was one of several United States (U.S.) federal law enforcement special agents who reported observing unidentified anomalous phenomena (UAP) over a period of two days in October 2023 in the western United States.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum with a witness narrative.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DoW-UAP-D080_Narrative-2_Western-US-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-119",
+      "officialId": "DOW-UAP-D081",
+      "title": "DOW-UAP-D081, NARRATIVE STATEMENT 3, WESTERN UNITED STATES EVENT, 2023",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1063",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D081-Narrative-Statement-3-Western-United-States-Event-2023",
+      "officialDescription": "This memorandum presents the first-hand narrative from Witness 3 provided to the All-domain Anomaly Resolution Office (AARO). Witness 3 was one of several United States (U.S.) federal law enforcement special agents who reported observing unidentified anomalous phenomena (UAP) over a period of two days in October 2023 in the western United States.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum with a witness narrative.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DoW-UAP-D081_Narrative-3_Western-US-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-393"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-394"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-120",
+      "officialId": "DOW-UAP-D082",
+      "title": "DOW-UAP-D082, NARRATIVE STATEMENT 4, WESTERN UNITED STATES EVENT, 2023",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1064",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D082-Narrative-Statement-4-Western-United-States-Event-2023",
+      "officialDescription": "This memorandum presents the first-hand narrative from Witness 4 provided to the All-domain Anomaly Resolution Office (AARO). Witness 4 was one of several United States (U.S.) federal law enforcement special agents who reported observing unidentified anomalous phenomena (UAP) over a period of two days in October 2023 in the western United States.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum with a witness narrative.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DoW-UAP-D082_Narrative-4_Western-US-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-121"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-121",
+      "officialId": "DOW-UAP-D083",
+      "title": "DOW-UAP-D083, NARRATIVE STATEMENT 5, WESTERN UNITED STATES EVENT, 2023",
+      "release": 3,
+      "releaseLabel": "6/12/26 - RELEASE 03",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "OCTOBER, 2023",
+      "incidentLocation": "WESTEN UNITED STATES",
+      "fileType": ".PDF",
+      "virin": "260508-D-D0360-1065",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D083-Narrative-Statement-5-Western-United-States-Event-2023",
+      "officialDescription": "This memorandum presents the first-hand narrative from Witness 5 provided to the All-domain Anomaly Resolution Office (AARO). Witness 5 was one of several United States (U.S.) federal law enforcement special agents who reported observing unidentified anomalous phenomena (UAP) over a period of two days in October 2023 in the western United States.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [
+        {
+          "alt": "A Department of War memorandum with a witness narrative.",
+          "src": "https://www.war.gov/medialink/ufo/061226/release_03/thumbnails/DoW-UAP-D083_Narrative-5_Western-US-Event.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-117"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-118"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-119"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-120"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-363"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-364"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-365"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-366"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-367"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-368"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-369"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-370"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-371"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-372"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-450"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

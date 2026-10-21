@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "topicId": "ruppelt-1952",
+  "title": "러펠트의 1952년 발표: 공군은 어떤 자료를 모으려 했나",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "같은 발표의 녹취와 음성을 묶어 조사 방법·당시 미해결 분류의 의미를 해설한다.",
+  "cautions": [
+    "발표자가 보고한 속도나 사례 비율을 오늘 검증된 물체 성능으로 표현하지 않는다. 음성 전체 청취 완료로 주장하지 않는다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-006",
+      "officialId": "DOW-UAP-D154",
+      "title": "DOW-UAP-D154, TRANSCRIPT OF A PRESENTATION BY CAPTAIN EDWARD J. RUPPELT, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "3/26/52",
+      "incidentLocation": "BOSTON, MASSACHUSETTS",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1145",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D154-Transcript-of-a-Presentation-by-Captain-Edward-J-Ruppelt-1952",
+      "officialDescription": "This document is a transcript of a March 1952 presentation by Captain Edward J. Ruppelt outlining the U.S. Air Force’s reorganized investigation into unidentified flying objects (UFOs). The presentation previews prospective technical methodologies, such as diffraction-grating photography and radar-scope synchronization, that were subsequently incorporated into Project Blue Book, a U.S. Air Force program active from 1952 to 1969 that investigated the nature and origin of UFOs. Ruppelt explains that out of approximately 800 historical cases reviewed by the Air Force, approximately 20% remained unexplained after technical analysis. These unresolved reports were sourced from credible military personnel, commercial pilots, and other qualified technical observers. He highlights geographic report concentrations around sensitive national security and nuclear weapons installations (including Los Alamos, Albuquerque, and Oak Ridge National Laboratories) and notes recurring anomalous characteristics, including silent high-speed flight and radar detections indicating unconfirmed air speeds between 1,000 and 3,500 miles per hour. Emphasizing that the Air Force found no conclusive evidence regarding the nature or origin of the phenomena, Ruppelt underscores the national security need for a systematic physical data collection effort to better evaluate these sightings.",
+      "previewImages": [
+        {
+          "alt": "Transcript Document",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D154_Transcript-of-a-Presentation-by-Captain-Edward-J-Ruppelt-1952.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-008"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    },
+    {
+      "catalogId": "record-008",
+      "officialId": "DOW-UAP-PR160",
+      "title": "DOW-UAP-PR160, PRESENTATION BY CAPTAIN EDWARD J. RUPPELT, 1952",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "3/26/52",
+      "incidentLocation": "BOSTON, MASSACHUSETTS",
+      "fileType": ".AUD",
+      "virin": null,
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-PR160-Presentation-by-Captain-Edward-J-Ruppelt-1952",
+      "officialDescription": "This audio file records a March 1952 presentation by Captain Edward J. Ruppelt, outlining the U.S. Air Force’s reorganized investigation into unidentified flying objects (UFOs). The presentation previews prospective technical methodologies, such as diffraction-grating photography and radar-scope synchronization, that were subsequently incorporated into Project Blue Book, a U.S. Air Force program active from 1952 to 1969 that investigated the nature and origin of UFOs. Ruppelt explains that out of approximately 800 historical cases reviewed by the Air Force, approximately 20% remained unexplained after technical analysis. These unresolved reports were sourced from credible military personnel, commercial pilots, and other qualified technical observers. He highlights geographic report concentrations around sensitive national security and nuclear weapons installations (including Los Alamos, Albuquerque, and Oak Ridge National Laboratories) and notes recurring anomalous characteristics, including silent high-speed flight and radar detections indicating unconfirmed air speeds between 1,000 and 3,500 miles per hour. Emphasizing that the Air Force found no conclusive evidence regarding the nature or origin of the phenomena, Ruppelt underscores the national security need for a systematic physical data collection effort to better evaluate these sightings.",
+      "previewImages": [],
+      "related": [],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}

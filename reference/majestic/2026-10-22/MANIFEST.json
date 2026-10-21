@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-10-22",
+  "timezone": "Asia/Seoul",
+  "source": "https://www.war.gov/UFO/",
+  "sourceView": "ALL RELEASES, 450 FILES, 38 catalog pages",
+  "count": 450,
+  "releaseCounts": {
+    "1": 158,
+    "2": 64,
+    "3": 72,
+    "4": 40,
+    "5": 41,
+    "6": 75
+  },
+  "fileTypeCounts": {
+    ".PDF": 270,
+    ".VID": 134,
+    ".AUD": 16,
+    ".IMG": 30
+  },
+  "officialDescriptionsCaptured": 168,
+  "fullAssetsRead": 0,
+  "mediaReuseCleared": 0,
+  "note": "Official portal metadata snapshot. Not 450 fully analyzed documents or 450 cleared articles. Portal incident-date labels may represent document dates for research papers. Catalog IDs are snapshot-specific; preserve source identity, title, release and VIRIN together. Official related-media links are navigation aids, not a guarantee of same incident."
+}

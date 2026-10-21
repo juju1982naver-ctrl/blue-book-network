@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "topicId": "spintronics-study",
+  "title": "스핀트로닉스 보고서: 기술 연구와 UAP 증거의 차이",
+  "preparedBy": "BBN current operator-assisted chat",
+  "status": "reference-ready-not-article-approved",
+  "articleAngle": "연구에서 다루는 물리 현상을 쉽게 풀고 UFO 목격 자료와 자료 성격이 다른 점을 밝힌다.",
+  "cautions": [
+    "그림은 장치·물리 원리 설명이며 UFO 내부 설계도로 부르지 않는다. 이전 기술 해설과 내용이 실질적으로 겹치면 한 편으로 합친다.",
+    "원문 전체 독해·페이지 근거·미디어 권리 검증 완료를 의미하지 않는다. 필요 범위의 원문을 읽고 근거를 검증한 뒤 기사화한다. 원문 접근 실패는 발행 보류 사유다."
+  ],
+  "sources": [
+    {
+      "catalogId": "record-005",
+      "officialId": "DOW-UAP-D129",
+      "title": "DOW-UAP-D129, AAWSAP DIRD, METALLIC SPINTRONICS, MARCH 2010",
+      "release": 6,
+      "releaseLabel": "9/18/26 - RELEASE 06",
+      "agency": "DEPARTMENT OF WAR",
+      "incidentDateLabel": "3/23/10",
+      "incidentLocation": "LAS VEGAS, NEVADA",
+      "fileType": ".PDF",
+      "virin": "260918-D-D0360-1118",
+      "officialPortal": "https://www.war.gov/UFO/",
+      "officialDetailUrl": "https://www.war.gov/UFO/#DOW-UAP-D129-AAWSAP-DIRD-Metallic-Spintronics-March-2010",
+      "officialDescription": "This document is a Defense Intelligence Reference Document (DIRD), a technical reference format used by the Defense Intelligence Agency (DIA) to capture baseline knowledge on a specific topic for later analytic use. DIRDs are best understood as reference and synthesis products rather than as original research. It is one of 38 DIRDs produced under the Advanced Aerospace Weapon System Applications Program (AAWSAP) between 2009 and 2011. Because AAWSAP’s scope permitted a broad range of supporting topics, not every DIRD in the series directly concerns aerospace systems or future threat assessment. The following summary reflects the DIRD’s scope and framing at the time of writing and should not be read as implying current validation of the concepts discussed.\n\nThis DIRD surveys metallic spintronics, a branch of electronics that seeks to use both the electric charge and the magnetic spin of electrons to store, detect, and manipulate information, and argues that the field could lead to faster, lower-power, and more radiation-resistant devices than conventional semiconductor electronics. The report focuses on two main effects: giant magnetoresistance (GMR), which allows magnetic states to be read through changes in electrical resistance, and spin-transfer torque (STT), which allows electrical currents to change those magnetic states. The DIRD reviews their underlying physics, the experimental work then available, and possible applications in memory, sensors, oscillators, and logic devices. The document treats metallic spintronics as a promising field while emphasizing that many of its more advanced proposed applications still require substantial further development.\n\nRedactions have been made to protect the identity of eyewitnesses, the location of government facilities, or potentially sensitive information about military sites not related to UAP. No redactions have been made to any files released under President Trump's directive concerning information about the nature or existence of any encounter reported as a UAP or related phenomena.",
+      "previewImages": [
+        {
+          "alt": "Diagram showing how electric current torques the magnetic moment in a magnetic field, influencing the spin rate and direction of electrons to achieve stable frequencies within a system.",
+          "src": "https://www.war.gov/medialink/ufo/sept-18/release-06/thumbs/DOW-UAP-D129_AAWSAP-DIRD-Metallic-Spintronics-March-23-2010.jpg"
+        }
+      ],
+      "related": [
+        {
+          "matchingCatalogIds": [
+            "record-002"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-003"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-147"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-148"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-149"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-150"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-151"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-004"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-152"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-153"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-154"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-155"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-156"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-157"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-158"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-159"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-160"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-161"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-162"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-163"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-164"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-165"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-166"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-167"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-168"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-169"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-170"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-171"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-172"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-173"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-174"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-175"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-176"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-177"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-178"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-179"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-180"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-181"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-182"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-183"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-184"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-185"
+          ],
+          "matchBasis": "exact-title"
+        },
+        {
+          "matchingCatalogIds": [
+            "record-186"
+          ],
+          "matchBasis": "exact-title"
+        }
+      ],
+      "review": {
+        "catalogVerified": true,
+        "officialDescriptionCaptured": true,
+        "fullAssetRead": false,
+        "mediaReuseCleared": false
+      }
+    }
+  ],
+  "workForMajestic": [
+    "이 묶음의 원문을 읽어 분석·집필",
+    "모든 기자의 등록 기사와 비교",
+    "사실·주장·불확실성 및 이미지 권리를 검증",
+    "검증 통과 시 정해진 회차에 최대 1편 등록"
+  ],
+  "notAssignedToMajestic": [
+    "1~6차 전체 목록 재수집",
+    "공개 포털 전수 조사",
+    "자료 분류 체계 구축",
+    "미수집 목록 보완을 위한 상시 수집 운영"
+  ]
+}
