@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-22",
+  "slot": "1100",
+  "topicId": "r01-early-air-force",
+  "release": 1,
+  "sourceCatalogIds": [
+    "record-011"
+  ],
+  "decision": "approved_input_registered_pending_deployment",
+  "evidence": "record-011 1947년 군 기록철 28쪽 공개 전사본의 3·4·6·9~11·26·28쪽과 콘던 보고서 부록 R·S, NARA RG341.15 대조. 원본 PDF 영상 직접 접근 실패로 verification=partial. record-012·017 미검증.",
+  "articleId": "majestic-20261022-1100-project-sign-1947",
+  "commitSha": null,
+  "incompleteScope": {
+    "topicRemainingSourceCatalogIds": [
+      "record-012",
+      "record-017"
+    ],
+    "releaseReadyTopicsRemaining": "제1차의 다른 준비 주제 전체 미완료. 다음 차수 이동 금지.",
+    "officialPdfVisualReview": false
+  },
+  "note": "진도 파일은 기사와 동일 커밋에 포함되므로 commitSha는 생성 시 미확정. Git 커밋 재조회로 확인."
+}
